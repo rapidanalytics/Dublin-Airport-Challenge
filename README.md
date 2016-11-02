@@ -1,5 +1,10 @@
 ![dublin-airport-logo](Dublin_Airport_Logo.png?raw=true)
 
+The challenge for Dublin Airport is to predict how many passengers will need to be processed at each fifteen minute interval in the day. This figure drives roster patterns, staffing decisions, training times, maintenance and repair schedules and a series of other pieces in this key process for Dublin Airport.
+
+Currently Dublin Airport has a model that forecasts how many passengers will present at security in each fifteen minute interval per day. This is done by examining historical patterns and also using expert judgement within Dublin Airport’s operations team which has decades of experience in this area.
+
+The challenge for participants is to see whether they can build a predictive model that outperforms the current approach in terms of more accurately predicting passenger volumes per flight and when those passengers will present at security screening at Dublin Airport.
 
 See attached some files for the daa hackathon:
 
@@ -8,5 +13,16 @@ See attached some files for the daa hackathon:
 •	data_dictionary.pdf > a description of each column in the data
 
 •	daa_hackathon_starter_code.py / daa_hackathon_starter_code.r > Some R and Python code to read in the data and generate a simple prediction to show what we are trying to predict and how we are measuring the model error
+
+DETAILS
+
+What is the model predicting:
+
+How many passengers for a given flight will present at security in each of the fifteen minute intervals for the four hours before the flight departs
+Note that for different flights, you will be asked to predict different points in the future e.g. for one flight number, you might be asked to predict the passenger presentation profile for tomorrow. For another flight, you might be asked to predict the passenger presentation profile one week from now. For another, it may be one month from now.
+Explanatory data will include
+
+Flight number level data (sampled) on historical security screening presentation profiles
+Anonymised variables that give meta-data about the flight, route, destination, etc.
  
 
