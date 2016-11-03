@@ -23,11 +23,13 @@ See attached some files for the DAA hackathon:
 What is the model predicting:
 
 How many passengers for a given flight will present at security in each of the fifteen minute intervals for the four hours before the flight departs
-Note that for different flights, you will be asked to predict different points in the future e.g. for one flight number, you might be asked to predict the passenger presentation profile for tomorrow. For another flight, you might be asked to predict the passenger presentation profile one week from now. For another, it may be one month from now.
-Explanatory data will include
 
-Flight number level data (sampled) on historical security screening presentation profiles
-Anonymised variables that give meta-data about the flight, route, destination, etc.
+Note that for different flights, you will be asked to predict different points in the future e.g. for one flight number, you might be asked to predict the passenger presentation profile for tomorrow. For another flight, you might be asked to predict the passenger presentation profile one week from now. For another, it may be one month from now.
+
+Explanatory data includes:
+
+- Flight number level data (sampled) on historical security screening presentation profiles
+- Anonymised variables that give meta-data about the flight, route, destination, etc.
 
 ## Got questions?
 
