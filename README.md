@@ -18,7 +18,7 @@ See attached some files for the DAA hackathon:
 
 •	[daa_hackathon_starter_code.py](daa_hackathon_starter_code.py) / [daa_hackathon_starter_code.r](daa_hackathon_starter_code.r) > Some Python and R code to read in the data and generate a simple prediction to show what we are trying to predict and how we are measuring the model error
 
-DETAILS
+## DETAILS
 
 What is the model predicting:
 
@@ -28,5 +28,9 @@ Explanatory data will include
 
 Flight number level data (sampled) on historical security screening presentation profiles
 Anonymised variables that give meta-data about the flight, route, destination, etc.
+
+## Got questions?
+
+Please use the [Issues section](https://github.com/rapidanalytics/Dublin-Airport-Challenge/issues) to engage with the organizers.
  
 
