@@ -2,11 +2,15 @@
 
 The challenge for Dublin Airport is to predict how many passengers will need to be processed at each fifteen minute interval in the day. This figure drives roster patterns, staffing decisions, training times, maintenance and repair schedules and a series of other pieces in this key process for Dublin Airport.
 
+Think you can solve the problem? [Register here to download the challenge data set](https://ti.to/hackathon-conference/travel-meets-big-data/)
+
 Currently Dublin Airport has a model that forecasts how many passengers will present at security in each fifteen minute interval per day. This is done by examining historical patterns and also using expert judgement within Dublin Airport’s operations team which has decades of experience in this area.
+
+![security checks](http://www.futuretravelexperience.com/wp-content/uploads/2016/03/NL110316-dublin-airport.jpg?raw=true)
 
 The challenge for participants is to see whether they can build a predictive model that outperforms the current approach in terms of more accurately predicting passenger volumes per flight and when those passengers will present at security screening at Dublin Airport.
 
-See attached some files for the daa hackathon:
+See attached some files for the DAA hackathon:
 
 •	train_unhashed_examples.csv > a non-hashed sample of records so that the contestants can see some real data points and get a better intuition for the dataset
 
