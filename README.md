@@ -12,11 +12,11 @@ The challenge for participants is to see whether they can build a predictive mod
 
 See attached some files for the DAA hackathon:
 
-•	[train_unhashed_examples.csv](train_unhashed_examples.csv) > a non-hashed sample of records so that the contestants can see some real data points and get a better intuition for the dataset
+•	[train_unhashed_examples.csv](train_unhashed_examples.csv) contains a non-hashed sample of records so that the contestants can see some real data points and get a better intuition for the dataset
 
-•	[data_dictionary.pdf](data_dictionary.pdf) > a description of each column in the data
+•	[data_dictionary.pdf](data_dictionary.pdf) provides the description of each column in the data
 
-•	[daa_hackathon_starter_code.py](daa_hackathon_starter_code.py) / [daa_hackathon_starter_code.r](daa_hackathon_starter_code.r) > Some Python and R code to read in the data and generate a simple prediction to show what we are trying to predict and how we are measuring the model error
+•	[daa_hackathon_starter_code.py](daa_hackathon_starter_code.py) / [daa_hackathon_starter_code.r](daa_hackathon_starter_code.r) are examples in Python and R code to read in the data and generate a simple prediction to help you get started and how Dublin Airport are measuring the model error
 
 ## DETAILS
 
