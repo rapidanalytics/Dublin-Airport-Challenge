@@ -10,7 +10,7 @@ Currently Dublin Airport has a model that forecasts how many passengers will pre
 
 The challenge for participants is to see whether they can build a predictive model that outperforms the current approach in terms of more accurately predicting passenger volumes per flight and when those passengers will present at security screening at Dublin Airport.
 
-See attached some files for the daa challenge (hackathon):
+See attached some files for the Dublin Airport challenge (hackathon):
 
 •	[train_unhashed_examples.csv](train_unhashed_examples.csv) contains a non-hashed sample of records so that the contestants can see some real data points and get a better intuition for the dataset
 
