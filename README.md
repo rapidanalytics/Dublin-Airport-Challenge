@@ -1,4 +1,4 @@
-![dublin-airport-logo](Dublin_Airport_Logo.png?raw=true)
+![dublin-airport-logo](https://www.dublinairport.com/DublinAirportTheme/css/imgs/dublin_airport_logo.png?raw=true)
 
 The challenge for Dublin Airport is to predict how many passengers will need to be processed at each fifteen minute interval in the day. This figure drives roster patterns, staffing decisions, training times, maintenance and repair schedules and a series of other pieces in this key process for Dublin Airport.
 
