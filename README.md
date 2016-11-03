@@ -31,6 +31,8 @@ Explanatory data includes:
 - Flight number level data (sampled) on historical security screening presentation profiles
 - Anonymised variables that give meta-data about the flight, route, destination, etc.
 
+Additional background information is available on the [official BUILD Challenge website](http://entanon.com/build/challenge-dublin-airport-an-efficient-experience-at-security-screening/).
+
 ## Got questions?
 
 Please use the [Issues section](https://github.com/rapidanalytics/Dublin-Airport-Challenge/issues) to engage with the organizers.
