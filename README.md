@@ -2,7 +2,7 @@
 
 The challenge for Dublin Airport is to predict how many passengers will need to be processed at each fifteen minute interval in the day. This figure drives roster patterns, staffing decisions, training times, maintenance and repair schedules and a series of other pieces in this key process for Dublin Airport.
 
-Think you can solve the problem? [Register here to download the challenge data set](https://ti.to/hackathon-conference/travel-meets-big-data/)
+Think you can solve the problem? [Register here to access the anonymized data set](https://ti.to/hackathon-conference/travel-meets-big-data/)
 
 Currently Dublin Airport has a model that forecasts how many passengers will present at security in each fifteen minute interval per day. This is done by examining historical patterns and also using expert judgement within Dublin Airport’s operations team which has decades of experience in this area.
 
