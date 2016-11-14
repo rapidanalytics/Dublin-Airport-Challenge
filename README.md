@@ -10,7 +10,7 @@ Currently Dublin Airport has a model that forecasts how many passengers will pre
 
 The challenge for participants is to see whether they can build a predictive model that outperforms the current approach in terms of more accurately predicting passenger volumes per flight and when those passengers will present at security screening at Dublin Airport.
 
-A mode detailed introduction of the problem is available in the [Hackathon_Investigations.html file](http://entanon.com/build/dublin-airport-challenge/){:target="_blank"}
+A mode detailed introduction of the problem is available in the [Hackathon_Investigations.html file](http://entanon.com/build/dublin-airport-challenge/)<a href="hhttp://entanon.com/build/dublin-airport-challenge/" target="_blank">Hackathon_Investigations.html file</a>
 
 See attached some files for the Dublin Airport challenge (hackathon):
 
