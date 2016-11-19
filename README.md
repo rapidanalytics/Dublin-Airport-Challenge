@@ -1,5 +1,7 @@
 ![dublin-airport-logo](https://www.dublinairport.com/DublinAirportTheme/css/imgs/dublin_airport_logo.png?raw=true)CHALLENGE
 
+**Please ensure that for any models submitted, the filename is in the format teamname_submissionnumber.csv**
+
 The challenge for Dublin Airport is to predict how many passengers will need to be processed at each fifteen minute interval in the day. This figure drives roster patterns, staffing decisions, training times, maintenance and repair schedules and a series of other pieces in this key process for Dublin Airport.
 
 Think you can solve the problem? [Register here to access the anonymized data set](https://ti.to/hackathon-conference/travel-meets-big-data/)
